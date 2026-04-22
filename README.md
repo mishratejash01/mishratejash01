@@ -8,7 +8,7 @@ Data Science & Machine Learning enthusiast. I enjoy turning messy data into clea
 - 🌱 **Currently learning:** Deep learning, MLOps, and advanced statistical methods
 - 👯 **Open to collaborating on:** Data science projects, Kaggle competitions, and open-source ML tooling
 - 💬 **Ask me about:** Python, pandas, scikit-learn, data visualization, or any ML concept
-- 📫 **Reach me at:** your.email@example.com
+- 📫 **Reach me at:** mtejash07@gmail.com
 
 ---
 
