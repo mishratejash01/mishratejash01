@@ -1,26 +1,20 @@
-## Hi, I'm Tejash 👋
+### Tejash Mishra
 
-Data Science & Machine Learning enthusiast. I enjoy turning messy data into clear insights and building models that actually get used.
+I work on machine learning — mostly the unglamorous middle of it, where data is broken, models are overconfident, and the gap between a notebook and something useful is wider than people admit.
 
----
-
-- 🔭 **Currently working on:** ML projects involving data preprocessing, model training, and evaluation
-- 🌱 **Currently learning:** Deep learning, MLOps, and advanced statistical methods
-- 👯 **Open to collaborating on:** Data science projects, Kaggle competitions, and open-source ML tooling
-- 💬 **Ask me about:** Python, pandas, scikit-learn, data visualization, or any ML concept
-- 📫 **Reach me at:** mtejash07@gmail.com
+Most of what I build starts as a question I can't stop thinking about, and ends as something small and sharp enough to deploy.
 
 ---
 
-### Tech Stack
+**Now**
+Training and evaluating models end-to-end. Thinking carefully about where they fail and why — usually it's the data, sometimes it's me.
 
-**Languages:** Python · SQL · R  
-**ML / Data:** scikit-learn · TensorFlow · PyTorch · pandas · NumPy  
-**Visualization:** Matplotlib · Seaborn · Plotly  
-**Tools:** Jupyter · Git · Docker · VS Code
+**Next**
+Deep learning at depth. MLOps as a discipline, not a buzzword. The statistical foundations most people skip and later regret.
+
+**Open to**
+Hard problems. Collaborators who'd rather be precise than fast. Anything that ships.
 
 ---
 
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/tejashmishra/) · [X / Twitter](https://x.com/tejash_07) · [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/tejashmishra/) · [X](https://x.com/tejash_07) · [mtejash07@gmail.com](mailto:mtejash07@gmail.com)
