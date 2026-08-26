@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mishratejash01's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ### Tejash Mishra
 
 I work on machine learning mostly the unglamorous middle of it, where data is broken, models are overconfident, and the gap between a notebook and something useful is wider than people admit.
